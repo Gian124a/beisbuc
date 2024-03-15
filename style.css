@@ -70,7 +70,6 @@ body{
     grid-template-rows: 43px 43px 43px;
     row-gap: 9px;
     padding: 0 15px;
-    background-color: red;
 }
 .Formulario .Inputs{
     border-radius: 5px;
